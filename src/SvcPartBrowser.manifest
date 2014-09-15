@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.bottinifuel.ServicePartBrowser.ServicePartBrowser
+Class-path: //bottini001/wappingers/data/Programs/CommonFiles/jconn2.jar //bottini001/wappingers/data/Programs/CommonFiles/castor.jar //bottini001/wappingers/data/Programs/CommonFiles/EnergyInfo.jar
